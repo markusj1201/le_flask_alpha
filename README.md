@@ -1,2 +1,3 @@
 # le_flask_alpha
-LE Flask application
+
+**LE Flask application**
